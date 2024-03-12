@@ -19,7 +19,6 @@ print(f"Descuento: {descuento1:.2f}")
 print(f"Monto final a pagar: {(monto_compra1 - descuento1):.2f}")
 
 print("\n")
-
 print(f"Monto compra Zapatos: {monto_compra2:.2f}")
 print(f"Descuento: {descuento2:.2f}")
 print(f"Monto final a pagar: {(monto_compra2 - descuento2):.2f}")
